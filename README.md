@@ -1,4 +1,4 @@
-# Image style transfer
+# Super resolution using GAN
 
 The aim of this project is to implement the image resolution enhancement method proposed by Xintao Wang 
 and colleagues in their publication [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](
